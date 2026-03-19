@@ -165,12 +165,6 @@ https://github.com/iftyzubaer
 
 ---
 
-# ❤️ Acknowledgment
-
-Built with love for **Raya Fatin Mobashera**.
-
----
-
 # 📄 License
 
 This project is licensed under the MIT License.
